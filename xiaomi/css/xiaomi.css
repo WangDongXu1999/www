@@ -1,0 +1,324 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-size: 62.5; }
+
+html, body {
+  width: 100%;
+  height: 100%; }
+
+header {
+  width: 1349px; }
+  header img {
+    width: 1349px; }
+
+.content {
+  height: 40px;
+  margin-top: -10px;
+  background-color: black;
+  font-size: .5rem; }
+  .content .jz {
+    width: 1200px;
+    margin: 0 auto; }
+    .content .jz .dh-left {
+      list-style: none; }
+      .content .jz .dh-left li {
+        line-height: 40px;
+        float: left;
+        margin-top: 5px;
+        color: white;
+        margin-left: 10px; }
+    .content .jz .dh-right {
+      list-style: none;
+      margin-left: 80px; }
+      .content .jz .dh-right li {
+        float: right;
+        line-height: 48px;
+        margin-right: 10px;
+        color: white; }
+
+.content1 {
+  height: 30px;
+  font-size: .5rem;
+  margin-top: 10px; }
+  .content1 .jz {
+    width: 1200px;
+    margin: 0 auto; }
+    .content1 .jz ul {
+      list-style: none; }
+      .content1 .jz ul li {
+        float: left;
+        line-height: 50px;
+        margin-left: 40px;
+        text-align: center; }
+        .content1 .jz ul li .d1 {
+          z-index: 666;
+          position: absolute;
+          background-color: white;
+          display: none;
+          text-align: center;
+          width: 80px; }
+          .content1 .jz ul li .d1 ul li {
+            text-align: center; }
+      .content1 .jz ul li:hover {
+        cursor: pointer; }
+
+.banner {
+  width: 1349px;
+  height: 461px;
+  margin-top: 30px; }
+  .banner .jz {
+    width: 1200px;
+    position: absolute;
+    left: 83px; }
+    .banner .jz .tu {
+      width: 965px;
+      height: 461px;
+      float: left;
+      margin-top: -461px;
+      margin-left: 235px;
+      position: relative; }
+      .banner .jz .tu img {
+        width: 965px;
+        height: 461px; }
+    .banner .jz ul {
+      width: 235px;
+      height: 461px;
+      list-style: none;
+      background-color: black;
+      position: relative; }
+      .banner .jz ul li {
+        line-height: 40px;
+        color: white;
+        text-align: center; }
+        .banner .jz ul li a {
+          text-decoration: none;
+          float: right;
+          color: whtie; }
+      .banner .jz ul li:hover {
+        cursor: pointer;
+        background-color: pink; }
+
+.bq {
+  width: 1349px;
+  margin-top: 20px; }
+  .bq .jz {
+    width: 1200px;
+    height: 171px;
+    margin: 0 auto; }
+    .bq .jz ul {
+      list-style: none; }
+      .bq .jz ul li {
+        height: 171px;
+        float: left; }
+
+.mx {
+  width: 1349px; }
+  .mx .jz {
+    width: 1200px;
+    margin: 0 auto; }
+    .mx .jz ul {
+      list-style: none; }
+      .mx .jz ul li {
+        width: 235px;
+        height: 342px;
+        text-align: center;
+        margin-left: 5px;
+        float: left; }
+        .mx .jz ul li img {
+          width: 235px;
+          height: 342px;
+          bottom-top: -20px; }
+
+.jd {
+  width: 1349px;
+  margin-top: 430px; }
+  .jd .jz {
+    width: 1200px;
+    margin: 0 auto; }
+    .jd .jz .jjdd {
+      height: 30px; }
+      .jd .jz .jjdd h2 {
+        float: left; }
+      .jd .jz .jjdd a {
+        float: right;
+        margin-right: 10px; }
+    .jd .jz .tu-left {
+      width: 235px;
+      height: 515px;
+      float: left;
+      margin-left: -50px; }
+    .jd .jz .tp {
+      width: 965px;
+      height: 515px; }
+      .jd .jz .tp ul {
+        width: 965px;
+        height: 515px;
+        float: left;
+        list-style: none;
+        margin-left: 245px;
+        margin-top: -515px; }
+        .jd .jz .tp ul li {
+          width: 230px;
+          height: 257;
+          float: left;
+          margin-top: 20px;
+          text-align: center; }
+        .jd .jz .tp ul li:hover {
+          transform: translateY(-4px);
+          box-shadow: 2px 2px 20px pink;
+          cursor: pointer; }
+
+.zn {
+  width: 1349px;
+  height: 610px;
+  margin-top: 100px; }
+  .zn .jz {
+    width: 1200px;
+    margin: 0 auto; }
+    .zn .jz .jjdd {
+      width: 1200px;
+      height: 40px; }
+      .zn .jz .jjdd h2 {
+        float: left; }
+      .zn .jz .jjdd a {
+        float: right;
+        margin-right: 10px; }
+    .zn .jz ul {
+      list-style: none; }
+      .zn .jz ul li {
+        width: 335;
+        height: 301px;
+        float: left;
+        margin-left: 10px;
+        text-align: center; }
+      .zn .jz ul li:hover {
+        transform: translateY(-4px);
+        box-shadow: 2px 2px 20px blue;
+        cursor: pointer; }
+
+.rp {
+  width: 1349px;
+  height: 440px;
+  margin-top: -250px; }
+  .rp .jz {
+    width: 1200px;
+    margin: 0 auto; }
+    .rp .jz ul {
+      width: 1200px;
+      height: 418px;
+      list-style: none; }
+      .rp .jz ul li {
+        width: 298px;
+        height: 223px;
+        float: left; }
+        .rp .jz ul li p {
+          width: 280px;
+          margin: 0 auto; }
+      .rp .jz ul li:hover {
+        transform: translateY(-4px);
+        box-shadow: 2px 2px 20px green;
+        cursor: pointer; }
+
+.nr {
+  width: 1349px;
+  height: 400px; }
+  .nr .jz {
+    width: 1200px;
+    margin: 0 auto; }
+    .nr .jz ul {
+      width: 1200px;
+      height: 371px;
+      margin-top: 10px;
+      list-style: none; }
+      .nr .jz ul li {
+        float: left;
+        margin-left: 30px; }
+      .nr .jz ul li:hover {
+        transform: translateY(-4px);
+        box-shadow: 2px 2px 20px yellow;
+        cursor: pointer; }
+
+.sp {
+  width: 1349px;
+  height: 250px;
+  margin-top: 40px; }
+  .sp .jz {
+    width: 1200px;
+    margin: 0 auto; }
+    .sp .jz ul {
+      width: 1200px;
+      height: 190px;
+      list-style: none; }
+      .sp .jz ul li {
+        width: 260px;
+        height: 159px;
+        margin-left: 25px;
+        float: left;
+        text-align: center; }
+      .sp .jz ul li:hover {
+        transform: translateY(-4px);
+        box-shadow: 2px 2px 20px red;
+        cursor: pointer; }
+
+.yy {
+  width: 1349px;
+  height: 50px; }
+  .yy .jz {
+    width: 1200px;
+    margin: 0 auto;
+    border-bottom: 1px solid black; }
+    .yy .jz ul {
+      width: 1200px;
+      height: 50px;
+      list-style: none; }
+      .yy .jz ul li {
+        float: left;
+        margin-left: 60px; }
+
+.bz {
+  width: 1349px;
+  height: 130px; }
+  .bz .jz {
+    width: 1200px;
+    height: 130px;
+    margin: 0 auto; }
+    .bz .jz .shu {
+      width: 2px;
+      height: 100px;
+      background-color: black;
+      float: right;
+      line-height: 130px; }
+    .bz .jz ul {
+      width: 977px;
+      height: 172px;
+      list-style: none; }
+      .bz .jz ul li {
+        float: left;
+        margin-left: 80px;
+        text-align: center; }
+    .bz .jz .xm-right {
+      float: right;
+      text-align: center;
+      margin-top: -170px; }
+
+.db {
+  width: 1349px;
+  height: 100px;
+  top: -20px; }
+  .db .jz {
+    width: 1200px;
+    height: 100px;
+    margin: 0 auto; }
+    .db .jz .oo {
+      float: left; }
+    .db .jz .zz {
+      float: left; }
+    .db .jz .db-right {
+      float: left; }
+      .db .jz .db-right ul {
+        list-style: none;
+        margin-left: 140px; }
+        .db .jz .db-right ul li {
+          float: left;
+          margin-left: 20px; }
